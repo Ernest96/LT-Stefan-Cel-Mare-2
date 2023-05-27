@@ -85,6 +85,7 @@ section {
     background: linear-gradient(#4141413f, #4141413f), url('../images/index.jpg');
     background-size: cover;
     background-position: 0% 30%;
+    position: relative;
 }
 
 .logo {
